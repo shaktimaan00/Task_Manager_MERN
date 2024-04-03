@@ -83,11 +83,13 @@ Following are the major dev-dependencies of the project:
 
 ## Installation and Setup
 
-1. Install all the dependencies
+1. Go to root directory
+
+2. Install all the dependencies
 
    `npm run install-all`
 
-2. Start the application
+3. Start the application
 
    `npm run dev`
 
